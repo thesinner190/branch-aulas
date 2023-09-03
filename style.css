@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    background-image: radial-gradient(circle, red, black);
+}
+
+h1 {
+    color: aqua;
+}
+
+p {
+    color: aqua;
+}
