@@ -1,0 +1,1 @@
+var test = window.alert('OLHA A MENSAGEMMM')
